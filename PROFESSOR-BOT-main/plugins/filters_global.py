@@ -269,7 +269,7 @@ async def delallconfirm(client, message):
         )
 
 
-# Kanged from https://github.com/KDBotz
+# Kanged from https://github.com/scrooge001
 @Client.on_message(filters.command(['gfilter', 'addg']) & filters.incoming & filters.user(ADMINS))
 async def addgfilter(client, message):
     args = message.text.html.split(None, 1)
