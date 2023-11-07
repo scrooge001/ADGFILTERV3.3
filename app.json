@@ -2,7 +2,7 @@
     "name": "ADGFILTER",
     "description": "The Telegram Autofilter Bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
-    "keywords": ["Telegram", "auto-filter", "MrMKN"],
+    "keywords": ["Telegram", "auto-filter", "SCROOGEX"],
     "repository": "https://github.com/scrooge001/ADGFILTERV3",
     "env": {
         "WEBHOOK": {
