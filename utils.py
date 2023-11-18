@@ -137,8 +137,8 @@ def list_to_str(k):
     else:
         return ' '.join(f'{elem}, ' for elem in k)
 
-__repo__ = "https://github.com/MrMKN/PROFESSOR-BOT"
-__version__ = "PROFESSOR-BOT ᴠ4.5.0"
+__repo__ = "https://github.com/scrooge001/ADGFILTERV3"
+__version__ = "ADG Filter ᴠ4"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
 __copyright__ = "Copyright (C) 2023-present ADG MOVIES <t.me/adgmovies>"
 
