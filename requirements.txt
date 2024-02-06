@@ -33,8 +33,5 @@ NumPy
 wheel
 ujson
 wget
-pytz
-
-
 
 
